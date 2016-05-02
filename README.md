@@ -1,5 +1,10 @@
 # AppFlash
 
+#### Instalar wsgi en UBUNTU
+
+	sudo apt-get install libapache2-mod-wsgi
+	sudo a2enmod mod-wsgi
+
 #### virtualenv
 
 	$ pip install virtualenv
