@@ -1,4 +1,4 @@
-
+# AppFlash
 
 
 #### virtualenv
@@ -6,8 +6,33 @@
 	$ pip install virtualenv
 	$ virtualenv ENV push
 
+#### 03: Install Virtual Environment `python`
 
-#### Crear virtual host
+This project use `Flask` as web server
+
+Create Environment
+
+	virtualenv ENV
+
+Enabled Environment
+
+	cd ENV
+	souce bin/activate
+
+Create list of packages install there!  
+`requirements.txt` store this dependencies
+
+	pip freeze > requirements.txt
+
+Install all dependencies libraries python  
+Easy Install
+
+	pip install -r requirements.txt
+
+
+
+
+#### Instalación
 
 Agregar en /etc/hosts
 
