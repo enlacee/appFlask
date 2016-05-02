@@ -1,10 +1,9 @@
 # AppFlash
 
-
 #### virtualenv
 
 	$ pip install virtualenv
-	$ virtualenv ENV push
+	$ virtualenv ENV
 
 #### 03: Install Virtual Environment `python`
 
@@ -28,7 +27,6 @@ Install all dependencies libraries python
 Easy Install
 
 	pip install -r requirements.txt
-
 
 
 
