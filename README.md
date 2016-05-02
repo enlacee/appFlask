@@ -61,5 +61,5 @@ Agregar
 
 Fuentes:
 
-	[configurar apache y flask](http://www.jakowicz.com/flask-apache-wsgi/)
-	[configurar apache y django](http://thecodeship.com/deployment/deploy-django-apache-virtualenv-and-mod_wsgi/)
+* [configurar apache y flask](http://www.jakowicz.com/flask-apache-wsgi/)
+* [configurar apache y django](http://thecodeship.com/deployment/deploy-django-apache-virtualenv-and-mod_wsgi/)
