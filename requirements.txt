@@ -28,7 +28,7 @@ openshot==1.4.3
 PAM==0.4.2
 paramiko==1.10.1
 pexpect==3.1
-Pillow==2.3.0
+Pillow==8.1.1
 psutil==1.2.1
 pycrypto==2.6.1
 pycups==1.9.66
