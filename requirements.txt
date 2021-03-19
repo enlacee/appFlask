@@ -14,7 +14,7 @@ Flask==0.10.1
 Glances==1.7.3
 httplib2==0.8
 itsdangerous==0.24
-Jinja2==2.7.2
+Jinja2==2.11.3
 kaa-base==0.99.1
 kaa-metadata==0.7.8
 lxml==3.3.3
